@@ -1,0 +1,38 @@
+body{
+    background-color: #f44242;
+}
+
+#main{
+    height:100%;
+}
+
+
+#burger-holder{
+    float: none;
+    margin: 0 auto;
+    margin-bottom:5%;
+    height:50%;
+    background-color: #f4ee41;
+    border: solid black 1px;
+    border-radius: 5px;
+    
+}
+
+h1 {
+    margin-bottom: 5%;
+    margin-top:3%;
+    text-align: center;
+}
+
+.center {
+    margin-left: 40%;
+    padding: 10px;
+    
+}
+
+#add{
+    margin-top:25%;
+    margin-bottom:3%;
+    text-align: center;
+}
+
